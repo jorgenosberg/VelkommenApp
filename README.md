@@ -1,4 +1,4 @@
-# VelkommenApp
+# The "Velkommen" project
 
 This directory contains sketches and final prototypes from a User-Centered Design project I recently finished at the Department of Informatics at the University of Oslo. I designed two separate products/solutions for international students based on my findings in multiple interviews and evaluations with users in my target demographic.
 

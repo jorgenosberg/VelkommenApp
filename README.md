@@ -8,6 +8,12 @@ The "Velkommen" app:
 </p>
 
 
+The "Velkommen to Oslo" key fob/wireless unlocker:
+<p align="center">
+  <img src="physical_prototypes/Begge prototyper forside.jpg" alt="Front of both physical prototypes"/>
+ </p>
+
+
 The customer data collection part of this design project is bound by anonymity and data protection principles that are important in our student projects at the University of Oslo, so any further information pertaining to my interviewees or their expressed views, opionions, needs, and requirements will not be made publicly availble.
 
 

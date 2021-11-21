@@ -13,9 +13,11 @@ Through my interviews, I discovered that one of the major challenges for new int
 
 ## The key fob design + alternative e-card design
 The key fob design is another product I believe could help make life easier for international students who come to the city. With Bluetooth and NFC capabilities, the little **Velkommen** key fob would unlock special discounts and offers for international students when scanned in restaurants, stores, at museums or elsewhere. With my cardboard model I primarily prototyped weight, size, and keychain functionality.
+
+The **Inter** card (alternatively named the **Velkommen**) card could either replace the key fob or be offered as an alternative to those who prefer the standard card format.
 <p align="center">
   <img src="physical_prototypes/Begge prototyper forside.jpg" alt="Front of both physical prototypes"/>
  </p>
 
 
-The customer data collection part of this design project is bound by anonymity and data protection principles that are important in our student projects at the University of Oslo, so any further information pertaining to my interviewees or their expressed views, opionions, needs, and requirements will not be made publicly availble.
+*The customer data collection part of this design project is bound by anonymity and data protection principles that are important in our student projects at the University of Oslo, so any further information pertaining to my interviewees or their expressed views, opionions, needs, and requirements will not be made publicly availble.*

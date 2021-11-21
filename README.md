@@ -4,7 +4,7 @@ This directory contains sketches and final prototypes from a User-Centered Desig
 
 The "Velkommen" app:
 <p align="center">
-  <img src="figma_prototype/prototype_2_homepage.png" alt="Homepage of the 'Velkommen' app"/>
+  <img src="figma_prototype/prototype_2_homepage.png" alt="Homepage of the 'Velkommen' app" width=400 height=auto/>
 </p>
 
 
